@@ -4,6 +4,27 @@
 
 The Suite Consultants WordPress theme is designed to meet the specific requirements of our client, Suite Consultants, a Netsuite consulting firm specializing in comprehensive solutions across the Netsuite ecosystem. This theme aims to align with Suite Consultants' business goals, emphasizing their core focus areas of sales, services, and support. The objective is to create a modern and user-friendly online presence that reflects professionalism and expertise.
 
+**Theme installation**
+
+1. Visit WordPress Themes Page:
+   - Go to [WordPress Themes](https://en-au.wordpress.org/themes/)
+
+2. Download Default Theme:
+   - Choose the default theme.
+   - Download the theme zip file.
+
+3. Upload and Activate:
+   - Log in to WordPress.
+   - Navigate to "Appearance" > "Themes."
+   - Click "Add New," then "Upload Theme."
+   - Upload the theme zip file and click "Activate."
+
+Now, your default WordPress theme is installed and active.
+
+For customization, visit "Appearance" > "Customize."
+
+
+
 ## Theme Features
 
 ### 1. Modern and User-Friendly Design
